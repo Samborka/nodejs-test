@@ -1,7 +1,6 @@
-##Introduction
-This repository has eight programming logic tests developed in js
+## Introduction
 
-##Usage
+This repository has eight programming logic tests developed in js
 
 ## Installation
 
